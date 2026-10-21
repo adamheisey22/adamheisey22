@@ -5,7 +5,7 @@
 Healthcare data analyst and economist with 8 years of building and deploying analytics in healthcare and the federal government. I currently work on quality and patient safety analytics from Epic EHR data, and own or support 15+ analytics products (pipelines, dashboards, API integrations and data views) for clinical, quality and executive leaders across a 33-hospital system.
 
 > **Where my commits are:** most of my day-to-day development happens in employer-owned private repositories, under my work GitHub accounts:
-> - **[@arh-ih](https://github.com/arh-ih)**: Intermountain Health (2022–2023, 2025–present)
+> - **[@arh-ihc](https://github.com/arh-ihc)**: Intermountain Health (2022–2023, 2025–present)
 > - **[@arh-eia](https://github.com/arh-eia)**: U.S. Energy Information Administration (2023–2025)
 >
 > This account holds my personal and open-source work, so its contribution graph shows only part of what I build.
